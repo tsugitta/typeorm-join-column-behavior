@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+reproduction codes for https://github.com/typeorm/typeorm/issues/10240
 
 Steps to run this project:
 
